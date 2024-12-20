@@ -1,12 +1,8 @@
 👋 Hi, I’m `@sanchitkd`. I work on **GraphQL**, **DDN**, and **PromptQL** at &nbsp;<a href="https://www.hasura.io" target="_blank"><img src="https://github.com/user-attachments/assets/d00897e0-dce8-4d28-84b3-b6a172566a7f" alt="Hasura" width="20" height="20"></a>
 
 # 💫 About Me:
-I'm an AWS Certified Solutions Architect associate.
-I'm good at problem-solving and delivering high-quality technical solutions. Also I have expertise in Linux, SQL, AWS, K8s, Docker & Python programming.
-I previously worked on VMware Cloud Foundation (VCF) at VMware by Broadcom and I hold VCP and VCAP certifications. 
-Right now I'm on a mission to make data access fast, secure & scalable
-
-~ Sanchit Dikshit
+- I'm an AWS Certified Solutions Architect associate. I'm good at problem-solving and delivering high-quality technical solutions. Also I have expertise in Linux, SQL, AWS, K8s, Docker & Python programming.  
+- I previously worked on VMware Cloud Foundation (VCF) at VMware by Broadcom and I hold VCP and VCAP certifications. I'm working on a mission *to make data access fast, secure & scalable.*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitkd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanchitkd) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sanchitkd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanchitkd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sanchitkd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchitkd) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@sanchitkd)
