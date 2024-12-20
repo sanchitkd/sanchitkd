@@ -1,7 +1,7 @@
 👋 Hi, I’m `@sanchitkd`. I work on **GraphQL**, **DDN**, and **PromptQL** at &nbsp;<a href="https://www.hasura.io" target="_blank"><img src="https://github.com/user-attachments/assets/d00897e0-dce8-4d28-84b3-b6a172566a7f" alt="Hasura" width="20" height="20"></a>
 
 # 💫 About Me:
-- I'm an AWS Certified Solutions Architect associate. I'm good at problem-solving and delivering high-quality technical solutions. Also I have expertise in Linux, SQL, AWS, K8s, Docker & Virtualization.  
+- I'm an AWS Certified Solutions Architect associate. I'm good at problem-solving and delivering high-quality technical solutions. Also I have expertise in SQL, GraphQL, Linux, AWS, K8s, Docker & Virtualization.  
 - I previously worked on VMware Cloud Foundation (VCF) at VMware by Broadcom and I hold VCP and VCAP certifications. I'm working on a mission *to make data access fast, secure & scalable.*
 
 ## 🌐 Socials:
