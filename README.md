@@ -1,4 +1,4 @@
-👋 Hi, I’m `@sanchitkd`. I work on GraphQL, DDN & PromptQL at Hasura.
+👋 Hi, I’m `@sanchitkd`. I work on **GraphQL**, **DDN**, and **PromptQL** at  <a href="https://www.hasura.io" target="_blank"><img src="https://github.com/user-attachments/assets/d00897e0-dce8-4d28-84b3-b6a172566a7f" alt="Hasura" width="20" height="20"></a>
 
 # 💫 About Me:
 I'm an AWS Certified Solutions Architect associate.
