@@ -1,10 +1,9 @@
-👋 Hi, I’m `@sanchitkd`🇮🇳  
-# I work at:
-![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)
+👋 Hi, I’m `@sanchitkd`, self-taught via search, now working at:  
+[![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://www.promptql.io)
 
 # 💫 About Me:
 - **AWS Certified Solutions Architect – Associate** with expertise in SQL, GraphQL, Linux, Kubernetes, Docker and AWS.  
-- Previously worked on **VMware Cloud Foundation** ([VCF](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation)) at [VMware by Broadcom](https://www.broadcom.com/info/vmware), holding **VCP** and **VCAP** certifications.  
+- Previously worked on **VMware Cloud Foundation** ([VCF](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation)) at [VMware by Broadcom](https://www.broadcom.com/info/vmware), holding **VCP** and **VCAP** certifications. 
 - Passionate about making **data access fast, secure, and scalable**.
 
 ## 🌐 Socials:
@@ -41,5 +40,3 @@
 ### 💰 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanchitkd) 
 
 Crafted with 💛 powered by [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-
----
