@@ -7,9 +7,17 @@ I work on [GraphQL](https://github.com/hasura/graphql-engine?tab=readme-ov-file#
 - Passionate about making **data access fast, secure, and scalable**.
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=firefox-browser&logoColor=white)](https://www.sanchitkd.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))](https://linkedin.com/in/sanchitkd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanchitkd) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sanchitkd) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/sanchitkd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchitkd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=firefox-browser&logoColor=white)](https://www.sanchitkd.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitkd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanchitkd) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sanchitkd) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=devdotto&logoColor=white)](https://dev.to/sanchitkd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchitkd)
 
 
+## 🌐 Socials:
+
+<a href="https://www.sanchitkd.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"></a>
+<a href="https://linkedin.com/in/sanchitkd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://x.com/sanchitkd"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"></a>
+<a href="https://www.hackerrank.com/profile/sanchitkd"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"></a>
+<a href="https://dev.to/sanchitkd"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="28"></a>
+<a href="https://instagram.com/sanchitkd"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"></a>
 
 
 # ⚛️ Skills:
