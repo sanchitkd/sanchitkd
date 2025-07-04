@@ -1,4 +1,4 @@
-👋 Hi, I’m `@sanchitkd`, self-taught via search, now working at:  
+👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at [sanchitkd.com](https://www.sanchitkd.com) - **currently working at:**
 [![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://promptql.io)
 
 # 💫 About Me:
@@ -37,6 +37,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanchitkd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 💰 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanchitkd) 
+### [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanchitkd) 
 
-Crafted with 💛 powered by [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+---
+
+<p align="center">
+  Crafted with 💛 &nbsp;•&nbsp; Powered by  
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="20"/>
+  </a>
+</p>
