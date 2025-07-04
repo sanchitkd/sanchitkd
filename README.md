@@ -1,4 +1,4 @@
-👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at [sanchitkd.com](https://www.sanchitkd.com) - **currently working at:**
+👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at [sanchitkd.com](https://www.sanchitkd.com) - **employed by:**
 [![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://promptql.io)
 
 # 💫 About Me:
