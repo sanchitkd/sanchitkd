@@ -1,5 +1,6 @@
 👋 Hi, I’m `@sanchitkd`🇮🇳  
-I work on [GraphQL](https://github.com/hasura/graphql-engine?tab=readme-ov-file#hasura-graphql-engine), [DDN](https://hasura.io/docs/3.0/index/), and [PromptQL](https://promptql.hasura.io/) at &nbsp;<a href="https://www.hasura.io" target="_blank"><img src="https://github.com/user-attachments/assets/d00897e0-dce8-4d28-84b3-b6a172566a7f" alt="Hasura" width="20" height="20"></a>
+# I work at:
+![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)
 
 # 💫 About Me:
 - **AWS Certified Solutions Architect – Associate** with expertise in SQL, GraphQL, Linux, Kubernetes, Docker and AWS.  
