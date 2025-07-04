@@ -40,9 +40,5 @@
 ---
 <p align="center">
   Crafted with 💛 • Powered by 
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="20"/>
-  </a>+<a href="https://shields.io">
-    <img src="https://img.shields.io/badge/Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" height="20"/>
-  </a>
+  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="20"/></a><a href="https://shields.io"><img src="https://img.shields.io/badge/Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" height="20"/></a>
 </p>
