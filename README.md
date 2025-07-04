@@ -1,5 +1,5 @@
 👋 Hi, I’m `@sanchitkd`, self-taught via search, now working at:  
-[![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://www.promptql.io)
+[![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://promptql.io)
 
 # 💫 About Me:
 - **AWS Certified Solutions Architect – Associate** with expertise in SQL, GraphQL, Linux, Kubernetes, Docker and AWS.  
