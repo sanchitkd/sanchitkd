@@ -5,7 +5,7 @@
 - **AWS Certified Solutions Architect – Associate** with expertise on SQL, GraphQL, Linux, Kubernetes, Docker, AWS & VCF.  
 - Currently at **[PromptQL](https://promptql.io)** (by Hasura), working on [**DDN (Data Delivery Network)**](https://hasura.io/ddn) — Fast APIs. Everywhere. Instantly.  
 - Previously contributed to **VMware Cloud Foundation** ([VCF](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation)) at [VMware by Broadcom](https://www.broadcom.com/info/vmware), holding **VCP** and **VCAP** certifications.  
-- Passionate about building systems that make **data access fast, secure, scalable, reliable and dev-friendly.**.
+- Passionate about building systems that make **data access fast, secure, scalable, reliable and dev-friendly.**
 
 ## 🌐 Socials:
 <a href="https://www.sanchitkd.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"></a>
