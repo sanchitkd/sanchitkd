@@ -1,4 +1,6 @@
-👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at [sanchitkd.com](https://www.sanchitkd.com) - **employed by:**
+Peek-a-boo 👋🏽
+
+Nice to see you here! I'm `@sanchitkd`, URL-certified at [sanchitkd.com](https://www.sanchitkd.com) & **employed by:**
 [![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://promptql.io)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -10,7 +12,7 @@
 - Passionate about building systems that make **data access fast, secure, scalable and dev-friendly.**
 
 ## 🌐 Socials:
-<a href="https://www.#.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"></a>
+<a href="https://www.sanchitkd.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="28"></a>
 <a href="https://linkedin.com/in/sanchitkd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
 <a href="https://x.com/sanchitkd"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" height="28"></a>
 <a href="https://www.hackerrank.com/profile/sanchitkd"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"></a>
