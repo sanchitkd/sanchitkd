@@ -1,5 +1,7 @@
-👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at ~~[sanchitkd.com](https://www.#.com)~~ - **employed by:**
+👋 Hi, I’m `@sanchitkd`, self-taught via search and URL-certified at [sanchitkd.com](https://www.sanchitkd.com) - **employed by:**
 [![promptql-neon-logo](https://github.com/user-attachments/assets/0f22448f-fff1-4b88-9904-df3d5f919aa8)](https://promptql.io)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
 - **AWS Certified Solutions Architect – Associate** with expertise on SQL, GraphQL, Linux, Kubernetes, Docker, AWS & VCF.  
@@ -32,8 +34,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanchitkd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-contributor-stats.vercel.app/api?username=sanchitkd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanchitkd) 
 
