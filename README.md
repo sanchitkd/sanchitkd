@@ -2,7 +2,7 @@ Peek-a-boo 👋🏽
 
 Nice to see you here! I'm `@sanchitkd`, URL-certified at [sanchitkd.com](https://www.sanchitkd.com).
 
-**Senior Technical Support Specialist @ [OpenText](https://www.opentext.com)** · Ex-Hasura ([PromptQL](https://promptql.io/)) · Ex-Broadcom (VMware)
+**Senior Technical Support Specialist @ [OpenText](https://www.opentext.com)** · Ex-Hasura ([PromptQL](https://promptql.io/)) · Ex-Broadcom ([VMware](https://www.vmware.com/))
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
