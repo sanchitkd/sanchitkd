@@ -8,7 +8,7 @@ Nice to see you here! I'm `@sanchitkd`, URL-certified at [sanchitkd.com](https:/
 
 # 💫 About Me
 - **AWS Certified Solutions Architect – Associate**, **VCAP-DCV Design** & **VCP-DCV**. Comfortable across VMware VCF, Linux, Kubernetes, Docker, AWS, GraphQL and Cloudflare.
-- Senior Technical Support Specialist at **[OpenText](https://www.opentext.com)** — Tier-2/Tier-3 enterprise escalation and root-cause analysis.
+- Senior Technical Support Specialist at **[OpenText](https://www.opentext.com)** — enterprise escalation and solutions expert.
 - Previously at **Hasura (PromptQL)** on [DDN](https://hasura.io/ddn), and **VMware Cloud Foundation** at [VMware by Broadcom](https://www.broadcom.com/info/vmware).
 - I build and run my own stack in the open — Cloudflare Workers, a self-hosted image pipeline, and an open-source macOS app.
 
