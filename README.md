@@ -22,9 +22,9 @@ Nice to see you here! I'm `@sanchitkd`, URL-certified at [sanchitkd.com](https:/
 <a href="https://www.credly.com/badges/08f022f1-fd66-48e1-8f4d-b5300599635a/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/fc69622f-a626-46d0-bda5-1ef81b113040" alt="VCAP – Data Center Virtualization Design 2023" width="140" height="140"></a>
 <a href="https://www.credly.com/badges/1d4b9538-b181-458a-a3dd-54042d60e43f/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/1f25d4d1-7ffe-4e45-8b63-e8b720b48edc" alt="VCP – Data Center Virtualization 2022" width="140" height="140"></a>
 <a href="https://www.credly.com/badges/a7e6ab1e-9e7f-4bb2-ab94-f0bff8b30b66/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/9d57ee70-5e58-406e-b946-4e47179ac717" alt="MTA: Introduction to Programming Using JavaScript - Certified 2020" width="150" height="150"></a>
-
+<!--
 # 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=sanchitkd&theme=dark&hide_border=false)
-
+-->
 ---
 <p align="center">Crafted with 💛 · <a href="https://www.sanchitkd.com">sanchitkd.com</a></p>
